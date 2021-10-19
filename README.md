@@ -1,3 +1,8 @@
+<p  align="center">
+<img  width="300px"  src="./docs/1.png">
+<img  width="300px"  src="./docs/2.png">
+</p>
+
 # helloflutter
 
 A simple flutter app i created while learning the basics
